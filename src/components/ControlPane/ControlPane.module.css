@@ -10,7 +10,7 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
-  overflow-y: auto;
+  overflow: auto;
   white-space: nowrap;
 }
 
