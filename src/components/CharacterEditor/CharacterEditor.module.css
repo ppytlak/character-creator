@@ -1,6 +1,7 @@
 .characterEditor {
   padding-top: 128px;
   padding-bottom: 64px;
+  background: linear-gradient(180deg, hsl(180deg, 25%, 92%) 60%, hsl(195deg, 20%, 86%) 40%);
 }
 
 .maxWidthWrapper {
@@ -8,6 +9,7 @@
 
 .header {
   padding-bottom: 64px;
+  width: 65%;
 }
 
 .title {
@@ -27,4 +29,6 @@
 }
 
 .controlColumn {
+  width: 50%;
 }
+
